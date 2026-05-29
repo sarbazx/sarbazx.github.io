@@ -1,0 +1,21 @@
+# robots.txt for qazlatin.pages.dev
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /*.json$
+
+# Sitemaps
+Sitemap: https://qazlatin.pages.dev/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 0
+
+# Special rules for specific bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
