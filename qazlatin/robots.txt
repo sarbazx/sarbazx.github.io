@@ -1,11 +1,11 @@
-# robots.txt for qazlatin.pages.dev
+# robots.txt for sarbazx.github.io/qazlatin
 User-agent: *
 Allow: /
 Disallow: /api/
 Disallow: /*.json$
 
 # Sitemaps
-Sitemap: https://qazlatin.pages.dev/sitemap.xml
+Sitemap: https://sarbazx.github.io/qazlatin/sitemap.xml
 
 # Crawl-delay
 Crawl-delay: 0
